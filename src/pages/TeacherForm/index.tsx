@@ -123,12 +123,11 @@ function TeacherForm() {
               name="subject" 
               label="Matéria" 
               options={[
-                { value: 'Artes', label: 'Artes'},
-                { value: 'Biologia', label: 'Biologia'},
-                { value: 'Ciências', label: 'Ciências'},
-                { value: 'Física', label: 'Física'},
-                { value: 'Geografia', label: 'Geografia'},
-                { value: 'História', label: 'História'},
+                { value: 'Jungle Paths', label: 'Jungle Paths'},
+                { value: 'The art of Midlane', label: 'The art of Midlane'},
+                { value: 'Old Diamond Mechanics', label: 'Old Diamond Mechanics'},
+                { value: 'Hook everything', label: 'Hook everything'},
+                { value: 'Carry Anyone', label: 'Carry Anyone'},
               ]}
               value={subject}
               onChange={(e) => {

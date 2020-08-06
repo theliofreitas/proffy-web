@@ -20,6 +20,8 @@
   --color-button-text: #FFFFFF;
   --color-box-base: #FFFFFF;
   --color-box-footer: #FAFAFC;
+  --color-alternative-lighter: #00BCD4;
+  --color-alternative-dark: #02a6bb;
 }
 
 * {
